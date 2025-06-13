@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Raghavendra Goudar
 
 🎯 **Data Scientist | AI Practitioner | Financial Crime Risk Expert**
