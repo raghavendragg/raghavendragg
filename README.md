@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raghavendra Goudar
 
-🎯 **Data Scientist | AI Practitioner | Financial Crime Risk Expert**
+🎯 **Data Scientist | AI Practitioner**
 
 I’m a passionate Data Scientist with over **8 years of experience** in the **banking sector, consulting, automotive**, specializing in **GenAI**, **Machine Learning**, **Natural Language Processing (NLP)**, and **Financial Crime Risk Management**.
 
